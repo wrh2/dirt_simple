@@ -1,3 +1,9 @@
+/*
+ * Implementation file for dirt simple circular fifo stack
+ * Programmed by wrh2
+ * github.com/wrh2
+ */
+
 #include "stack.h"
 
 #define STACK_SUCCESS 1
