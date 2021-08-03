@@ -1,5 +1,5 @@
 /*
- * Implementation file for dirt simple circular fifo stack
+ * Header file for dirt simple circular fifo stack
  * Programmed by wrh2
  * github.com/wrh2
  */

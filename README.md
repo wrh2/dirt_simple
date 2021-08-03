@@ -1,7 +1,10 @@
 # Dirt Simple
 
-A simple circular FIFO stack implemented in C.
+A __very__ simple circular FIFO stack implemented in C for embedded systems.
 
-It is designed to be simple, easy to read and easy to use.
+It is designed to be as simple as possible, easy to read and easy to use.
 
-This code is ideal for embedded environments.
+## Features
+
+* Static implementation, stack size and data types can easily be adjusted with #define's
+* Underflow and overflow detection
