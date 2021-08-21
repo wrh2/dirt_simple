@@ -14,5 +14,8 @@
 
 uint8_t push_stack(STACK_DATA_TYPE * obj);
 uint8_t pop_stack(STACK_DATA_TYPE *obj);
+unsigned int stack_size(void);
+unsigned int stack_underflow(void);
+unsigned int stack_overflow(void);
 
 #endif /* _DIRT_SIMPLE_ */
